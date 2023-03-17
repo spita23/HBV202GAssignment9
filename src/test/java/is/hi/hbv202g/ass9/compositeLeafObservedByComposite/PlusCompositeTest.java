@@ -1,9 +1,9 @@
 package is.hi.hbv202g.ass9.compositeLeafObservedByComposite;
 
+import static org.junit.Assert.*;
+
 import org.junit.Before;
-import org.junit.Test;iimport static org.junit.Assert.*;
-        import org.junit.Before;
-        import org.junit.Test;
+import org.junit.Test;
 
 public class PlusCompositeTest {
 
